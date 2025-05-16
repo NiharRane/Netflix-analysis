@@ -1,0 +1,1 @@
+Using Tableau, dove into Netflix's massive dataset of multiple rows containing shows and movies, simplified and analyzed the data revealing insights and interesting facts about what's available on the platform. These tools helped me find patterns, uncover trends, and share a clear picture of Netflix's diverse content world
